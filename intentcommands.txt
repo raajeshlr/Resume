@@ -1,1 +1,0 @@
->mongorestore --db INTENT D:\EntityRecognization\intent-python\intent-python\database\dump\INTENT\
