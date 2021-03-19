@@ -1,0 +1,2 @@
+SKILLS
+Machine Learning, Deep Learning, NLP, Python, RNN, LSTM, TensorFlow, Keras, PyTorch, Image Processing, OpenCV, MongoDB, Microsoft Azure Services, Docker, Azure ML Studio, AWS Machine Learning, SQL, Git, Leadership Skills.
