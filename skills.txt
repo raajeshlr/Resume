@@ -1,10 +1,6 @@
 SKILLS
-
-Machine Learning Development: 
-Machine Learning, Deep Learning, NLP, Python, RNN, LSTM, TensorFlow, Keras, PyTorch, Image Processing, OpenCV, MongoDB, SQL.
-
-Machine Learning Operations MLOps: 
-DVC, GitHub Actions, Heroku, Docker, Kubernetes, AWS SageMaker, Cloud Formation, BYOM, GCP MLOps, Azure ML, MLflow, Kubeflow, Model Monitoring, Jenkins, Databricks. 
+•	Machine Learning, Deep Learning, NLP, Python, RNN, LSTM, Keras, PyTorch, OpenCV, MongoDB, SQL.
+•	GCP MLOps E2E, AWS MLOps E2E, GCP Vertex AI, AWS Sage Maker, DVC, GitHub Actions, Docker, Kubernetes, Cloud Formation, BYOM, Kubeflow, Databricks, MLflow, Model Monitoring.
 
 INTERESTS: Machine Learning Operations
 
