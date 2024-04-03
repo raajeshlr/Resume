@@ -1,6 +1,6 @@
 SKILLS
+•	LLMOps, GCP / AWS / Azure MLOps, Vertex AI, Sage Maker, Azure ML, Docker, Kubernetes, OpenShift, Airflow, Kubeflow, Jenkins, Databricks, Mlflow, Terraform, Cloud Formation, DVC, GitHub Actions.
 •	Machine Learning, Deep Learning, NLP, Python, RNN, LSTM, Keras, PyTorch, OpenCV, MongoDB, SQL.
-•	GCP MLOps E2E, AWS MLOps E2E, GCP Vertex AI, AWS Sage Maker, DVC, GitHub Actions, Docker, Kubernetes, Cloud Formation, BYOM, Kubeflow, Databricks, MLflow, Model Monitoring.
 
 INTERESTS: Machine Learning Operations
 
